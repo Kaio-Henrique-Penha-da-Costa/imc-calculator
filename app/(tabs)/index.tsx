@@ -93,3 +93,5 @@ const styles = StyleSheet.create({
     color: '#6C5CE7',
   },
 });
+
+/*teste
